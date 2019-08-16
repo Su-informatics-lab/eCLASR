@@ -6,6 +6,8 @@ phenotyping algorithms across different EMR infrastructures.
 
 eCLASR™ is composed of multiple modules, the following of which are currently available:
 
+* [**EMR**](https://github.com/Su-informatics-lab/eCLASR-EMR)
+* [**Phenotyping**](https://github.com/Su-informatics-lab/eCLASR-Phenotyping)
 * [**Revealing Snow**](https://github.com/Su-informatics-lab/eCLASR-RevealingSnow) is web-based software platform for interactively visualizing the impact of varying screening criteria on patient counts.
 
 
